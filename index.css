@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.fa-solid{
+    border: 2px solid;
+    border-radius: 50%;
+    font-size: small;
+    padding: 5px;
+    background-color:cornflowerblue;
+    color: aliceblue;
+    
+}
+.fas{
+    color:darkgray;
+}
